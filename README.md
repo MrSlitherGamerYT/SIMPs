@@ -16,6 +16,7 @@ The SIMPs shall have (guaranteed):
   - Voice Assistant (To replace a keyboard/controller)
   - Translator (Uses camera for auto translations)
   - Problem Solving (for basic things like Algebra/Definitions (also uses camera for full optimization))
+  - Google Maps (Offline mode as the glasses will not have mobile data)
   - Raspberry Pi 0 W
   - 2" LCD screen attached to lens
   - Camera
